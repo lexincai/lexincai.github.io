@@ -30,4 +30,4 @@ Bachelor of Management, Public Administration
 Research Assistant for Pauline Leung and Zhuan Pei
 
 **Center on Budget and Policy Priorities**,  *2015–2020*  
-Research Intern * (2015–2016)*,  Associate *(2016–2018)*, Analyst *(2018–2020)*   
+Research Intern *(2015–2016)*,  Associate *(2016–2018)*, Analyst *(2018–2020)*   
