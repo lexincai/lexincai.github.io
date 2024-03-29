@@ -9,7 +9,7 @@ classes: wide
 Download my full cv in pdf  [here](/assets/pdf/cv_lexincai.pdf).
 
 ---
-###Education
+# Education
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
@@ -22,7 +22,7 @@ MS in Social Policy
 **Renmin University of China**, *2013*  
 Bachelor of Management, Public Administration
 
-### Employment
+# Employment
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 

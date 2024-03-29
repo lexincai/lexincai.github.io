@@ -14,7 +14,5 @@ classes: wide
 
 **Effects of Eliminating SNAP Asset Tests on Program Participation and Family Wealth**
 
-**Local Responses to Federal Grants: Evidence from the Universal School Meals Programs**
-
-**Effects of Work Requirements in Means-Tested Programs**, * (with Pauline Leung and Hyewon Kim)*  
+**Effects of Work Requirements in Means-Tested Programs**,  with Pauline Leung and Hyewon Kim
 
