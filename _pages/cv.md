@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-Here is my [resume](/assets/pdf/cv_lexincai.pdf).
+Download my full cv in pdf  [here](/assets/pdf/cv_lexincai.pdf).
 
 ---
 ###Education
@@ -17,21 +17,19 @@ Here is my [resume](/assets/pdf/cv_lexincai.pdf).
 PhD Candidate in Economics
 
 **University of Pennsylvania**, *2015*  
-MS in Social Polic
+MS in Social Policy
 
 **Renmin University of China**, *2013*  
-Bachelor of Management
+Bachelor of Management, Public Administration
 
 ### Employment
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**Cornell University**, *Ithaca, NY*, *2022–Present*  
+**Cornell University**, *2022–Present*  
 Research Assistant for Pauline Leung and Zhuan Pei
 
 **Center on Budget and Policy Priorities**,  *2015–2020*  
 Research Analyst, *2018–2020*
-
 Research Associate, *2016–2018*
-
 Research Intern, *2015–2016*

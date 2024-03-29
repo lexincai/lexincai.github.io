@@ -8,19 +8,3 @@ This is the repository for my personal website. Visit it at [https://lexincai.gi
 ## Credits
 
 The website is based on Michael Rose's [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) Jekyll theme.
-
-## Usage
-
-To setup an environment to run the website in development, execute
-
-```console
-bundle install
-```
-
-then
-
-```console
-bundle exec jekyll serve --incremental
-```
-
-to serve the website locally and watch changes.
