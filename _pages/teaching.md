@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-### Cornell University
+# Cornell University
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 

@@ -31,5 +31,7 @@ Research Assistant for Pauline Leung and Zhuan Pei
 
 **Center on Budget and Policy Priorities**,  *2015–2020*  
 Research Analyst, *2018–2020*
+
 Research Associate, *2016–2018*
+
 Research Intern, *2015–2016*
