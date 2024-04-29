@@ -162,10 +162,9 @@ atom_feed:
 
 
 analytics:
-  provider: "google-gtag"
+  provider: ""
   google:
-    tracking_id: "G-DGQ7BQQ1DV"
-    anonymize_ip: false # default
+    google_site_verification: j8YmR9cUPfpnEuIT649sw2ZVY-WBIw68vfcaAn546QY # your google-site-verification ID (Google Search Console)
 
 # Exclude from processing.
 # The following items will not be processed, by default.
