@@ -40,7 +40,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 author:
   name             : "Lexin Cai"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "PhD Student in Economics"
+  bio              : "PhD Candidate in Economics"
   location         : "Ithaca, NY"
   employer         :
   email            : "lc973@cornell.edu"
