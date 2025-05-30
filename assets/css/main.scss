@@ -68,10 +68,9 @@ html {
     margin: .5rem 0 .8rem !important;
 }
 
-.author__avatar img {
-  border-radius: 0;
-  width: 300px;
-  height: auto; /* Maintain aspect ratio */
-  object-fit: contain; /* Show full image */
+.author__avatar {
+  max-width: none;  /* remove any container cap */
+  width: auto;
 }
+
 
