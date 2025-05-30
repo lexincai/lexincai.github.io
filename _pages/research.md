@@ -6,10 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-# Research
-
----
-
 ## Job Market Paper
 **“Long-Term Effects of Universal Free School Meal Policies: Evidence from the Community Eligibility Provision”**
 
