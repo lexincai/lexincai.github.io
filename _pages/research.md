@@ -6,13 +6,20 @@ author_profile: true
 classes: wide
 ---
 
-# Work in Progress
-{: style="font-size:.85em; color: #7a8288;"}
+# Research
+
 ---
 
-Local Responses to Federal Grants: Evidence from the Universal School Meals Programs
+## Job Market Paper
+**“Long-Term Effects of Universal Free School Meal Policies: Evidence from the Community Eligibility Provision”**
 
-Effects of Eliminating SNAP Asset Tests on Program Participation and Family Wealth
+---
 
-Effects of Work Requirements in Means-Tested Programs,  with Pauline Leung and Hyewon Kim
+## Work in Progress
+
+- *“Effects of Work Requirements in Means-Tested Programs”*  
+  (with Pauline Leung and Hyewon Kim)
+
+- *“Work Requirements in SNAP and Postsecondary Enrollment”*  
+  (with Meredith Welch)
 
