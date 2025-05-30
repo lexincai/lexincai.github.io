@@ -69,6 +69,10 @@ html {
 }
 
 .author__avatar {
-  width: 160px !important;
-  height: 160px !important;
+  img {
+    border-radius: 0;         // removes roundness, making it square
+    width: 200px;             // increase width
+    height: 200px;            // increase height
+    object-fit: cover;        // crop to fit container without distortion
+  }
 }
