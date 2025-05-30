@@ -68,11 +68,10 @@ html {
     margin: .5rem 0 .8rem !important;
 }
 
-.author__avatar {
-  img {
-    border-radius: 0;         // removes roundness, making it square
-    width: 200px;             // increase width
-    height: 200px;            // increase height
-    object-fit: cover;        // crop to fit container without distortion
-  }
+.author__avatar img {
+  border-radius: 0;
+  width: 300px;
+  height: auto; /* Maintain aspect ratio */
+  object-fit: contain; /* Show full image */
 }
+
