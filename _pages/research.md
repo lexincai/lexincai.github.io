@@ -7,7 +7,7 @@ classes: wide
 ---
 
 ## Job Market Paper
-**“Long-Term Effects of Universal Free School Meal Policies: Evidence from the Community Eligibility Provision”**
+*“Long-Term Effects of Universal Free School Meal Policies: Evidence from the Community Eligibility Provision”*
 
 ---
 
