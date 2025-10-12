@@ -8,11 +8,3 @@
   margin-bottom: 1rem;
 }
 
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-# Add this if not already
-include:
-  - assets
