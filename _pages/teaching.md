@@ -16,5 +16,5 @@ _Brooks School of Public Policy Outstanding TA Award_
 
 ---
 
-### Behavioral Economics and Public Policy &nbsp; <a href="Cai_PAM3130_TA_evaluation.pdf" target="_blank" class="btn btn--small">📄 TA Evaluation</a>
+### Behavioral Economics and Public Policy &nbsp; <a href="/assets/pdf/Cai_PAM3130_TA_evaluation.pdf" target="_blank" class="btn btn--small">📄 TA Evaluation</a>
 *Spring 2022*
