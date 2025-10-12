@@ -10,11 +10,13 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-### Economics of the Public Sector &nbsp; <a href="/assets/pdf/CAI_PAM2040_TA_evaluation.pdf" target="_blank" class="btn btn--small">📄 TA Evaluation</a>
+### Economics of the Public Sector
 *Fall 2021*  
-_Brooks School of Public Policy Outstanding TA Award_
+_Brooks School of Public Policy Outstanding TA Award_  
+[📄 TA Evaluation]({{ '/assets/pdf/Cai_PAM2040_TA_evaluation.pdf' | relative_url }}){: .btn .btn--primary target="_blank" rel="noopener" }
 
 ---
 
-### Behavioral Economics and Public Policy &nbsp; <a href="/assets/pdf/Cai_PAM3130_TA_evaluation.pdf" target="_blank" class="btn btn--small">📄 TA Evaluation</a>
-*Spring 2022*
+### Behavioral Economics and Public Policy
+*Spring 2022*  
+[📄 TA Evaluation]({{ '/assets/pdf/Cai_PAM3130_TA_evaluation.pdf' | relative_url }}){: .btn .btn--primary target="_blank" rel="noopener" }
