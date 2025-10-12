@@ -18,7 +18,7 @@ School meal policies in the United States are at a crossroads: half of public Kâ
 ## Work in Progress
 
 - Effects of Work Requirements in Means-Tested Programs
-  (with Pauline Leung and Hyewon Kim) [Abstract | Draft Forthcoming]
+  (with Hyewon Kim and Pauline Leung) [Abstract | Draft Forthcoming]
 
 - Work Requirements in SNAP and Postsecondary Enrollment
   (with Meredith Welch)
