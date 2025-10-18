@@ -38,13 +38,21 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Author
 author:
-  name             : "Lexin Cai"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate in Economics"
-  location         : "Ithaca, NY"
-  email            : "lc973@cornell.edu"
-  LinkedIn	   : "lexincai"
-  github           : "lexincai"
+  name      : "Lexin Cai"
+  avatar    : "/assets/images/bio-photo.jpg"
+  bio       : "PhD Candidate in Economics"
+  location  : "Ithaca, NY"
+  email     : "lc973@cornell.edu"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:lc973@cornell.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/lexincai/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lexincai"
 
 # Site Footer
 footer:
