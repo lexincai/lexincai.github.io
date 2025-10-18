@@ -23,6 +23,6 @@ School meal policies in the United States are at a crossroads: half of public Kâ
 - Work Requirements in SNAP and Postsecondary Enrollment
   (with Meredith Welch)
 
-- Examining Magnet Program Expansions on Student, School, and Residential Outcomes in Texas
+- The Effect of High School Magnet Programs on Academic and Racial Segregation
   (with Katharine Sadowski)
 
