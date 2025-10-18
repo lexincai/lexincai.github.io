@@ -42,7 +42,6 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate in Economics"
   location         : "Ithaca, NY"
-  employer         :
   email            : "lc973@cornell.edu"
   LinkedIn	   : "lexincai"
   github           : "lexincai"
@@ -53,6 +52,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lexincai"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/lexincai/"
 
 
 # Defaults
