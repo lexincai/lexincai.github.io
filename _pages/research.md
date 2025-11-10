@@ -17,15 +17,15 @@ School meal policies in the United States are at a crossroads: half of public Kâ
 
 ## Work in Progress
 
-- Effects of Work Requirements in Means-Tested Programs<br>
+- **Effects of Work Requirements in Means-Tested Programs**<br>
   (with Hyewon Kim and Pauline Leung)<br>
   Draft forthcoming pending Census Bureau disclosure review
 
-- The Effect of High School Magnet Programs on Academic and Racial Segregation<br>
+- **The Effect of High School Magnet Programs on Academic and Racial Segregation**<br>
   (with Katharine Sadowski)<br>
   Approved Texas Education Research Center project
   
-- Work Requirements in SNAP and Postsecondary Enrollment<br>
+- **Work Requirements in SNAP and Postsecondary Enrollment**<br>
   (with Meredith Welch)
 
 
