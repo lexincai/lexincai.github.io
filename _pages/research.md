@@ -17,7 +17,7 @@ School meal policies in the United States are at a crossroads: half of public Kâ
 
 ## Work in Progress
 
-- **Effects of SNAP Work Requirements**<br>
+**Effects of SNAP Work Requirements**<br>
   (with Hyewon Kim and Pauline Leung)<br>
   Draft forthcoming pending Census Bureau disclosure review
   
@@ -25,13 +25,17 @@ In this paper, we examine the effectiveness of work requirements as a screening 
 
 Disclaimer: This research was performed at a Federal Statistical Research Data Center under FSRDC Project Number 3049. (CBDRB-FY26-P3049-R12788)
 
-- **The Effect of High School Magnet Programs on Academic and Racial Segregation**<br>
+---
+
+**The Effect of High School Magnet Programs on Academic and Racial Segregation**<br>
   (with Katharine Sadowski)<br>
   Approved Texas Education Research Center project
   
-  We examine how magnet programs affect student, classroom, school, and residential outcomes using linked administrative data from Texas. Exploiting variation in the timing and location of magnet program openings, we estimate their impacts on student achievement and college enrollment among students attending their zoned schools. We also investigate changes in academic and racial segregation across classrooms within schools, across schools within districts, and across census tracts within school attendance zones. This research informs discussions about how and where to expand magnet programs to promote racially diverse and academically thriving student bodies.
-  
-- **Work Requirements in SNAP and Postsecondary Enrollment**<br>
+We examine how magnet programs affect student, classroom, school, and residential outcomes using linked administrative data from Texas. Exploiting variation in the timing and location of magnet program openings, we estimate their impacts on student achievement and college enrollment among students attending their zoned schools. We also investigate changes in academic and racial segregation across classrooms within schools, across schools within districts, and across census tracts within school attendance zones. This research informs discussions about how and where to expand magnet programs to promote racially diverse and academically thriving student bodies.
+ 
+---
+ 
+**Work Requirements in SNAP and Postsecondary Enrollment**<br>
   (with Meredith Welch)
 
 
