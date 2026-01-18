@@ -27,6 +27,13 @@ Disclaimer: This research was performed at a Federal Statistical Research Data C
 
 ---
 
+**Local Responses to Federal Grants: Evidence from the Universal Free School Meals Program**<br>
+  (Draft available upon request; Revision in progress)
+
+I examine the effects of the Community Eligibility Provision (CEP) on school finance, leveraging staggered adoption of the policy. I use nationwide administrative data on CEP take-up and the U.S. Census Bureau’s Survey of School System Finances from 2010 to 2019. I find that federal school meal spending increases by $63 per student per year as a result of CEP, while student payments for meals decrease by $18 per student per year. CEP does not affect state school meal spending during this period and has no spillover effects on instructional spending or Title I funding.
+
+---
+
 **The Effect of High School Magnet Programs on Academic and Racial Segregation**<br>
   (with Katharine Sadowski)<br>
   Approved Texas Education Research Center project
