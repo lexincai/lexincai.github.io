@@ -68,9 +68,8 @@ html {
     margin: .5rem 0 .8rem !important;
 }
 
-.author__avatar {
-  max-width: none;  /* remove any container cap */
-  width: auto;
+.author__avatar img {
+  max-width: 175px;
 }
 
 
