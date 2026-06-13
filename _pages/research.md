@@ -19,8 +19,7 @@ School meal policies in the United States are at a crossroads: half of public Kâ
   
 We examine the effectiveness of work requirements as a screening device in the Supplemental Nutrition Assistance Program (SNAP). Work requirements for "able-bodied adults without dependents" were suspended after the Great Recession and gradually reinstated across counties and states in the 2010s. Using linked administrative SNAP and employment data from five states and a triple-differences design, we find that work requirements reduce SNAP participation by seven percent without increasing labor supply, and disproportionately screen out low-income individuals. We develop a welfare framework to interpret these results and find that the social costs from poorer targeting exceed budget savings.
 
-Disclaimer: This research was performed at the Cornell Federal Statistical Research Data Center (supported by the Cornell Center for Social Sciences) under FSRDC Project Number 3049. (CBDRB-FY26-P3049-R12788, CBDRB-FY26-P3049-R13048).
-{: .disclaimer}
+<p style="font-size: 0.85em; font-style: italic; color: #7a8288;">Disclaimer: This research was performed at the Cornell Federal Statistical Research Data Center (supported by the Cornell Center for Social Sciences) under FSRDC Project Number 3049. (CBDRB-FY26-P3049-R12788, CBDRB-FY26-P3049-R13048).</p>
 
 ---
 
