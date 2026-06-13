@@ -41,7 +41,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 author:
   name         : "Lexin Cai"
   avatar       : "/assets/images/bio-photo.jpg"
-  bio          : "_/Lex-in KAI/_"
+  bio	       : "_pronounced Lex-in KAI_"
 
 # Site Footer
 footer:
