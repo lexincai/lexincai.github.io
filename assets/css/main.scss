@@ -69,7 +69,8 @@ html {
 }
 
 .author__avatar img {
-  max-width: 210px;
-  border-radius: 0;
+  @include breakpoint($large) {
+    max-width: 210px;
+  }
 }
 
