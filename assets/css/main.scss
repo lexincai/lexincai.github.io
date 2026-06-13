@@ -77,8 +77,11 @@ html {
 .author__avatar,
 .author__content {
   display: block;
+  width: auto;
+  height: auto;
   text-align: center;
 }
+
 .author__urls-wrapper {
   display: none;
 }
