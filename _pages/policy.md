@@ -6,10 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-Below are selected policy reports and briefs I have co-authored:
-
----
-
 - **[The Supplemental Nutrition Assistance Program Includes Earnings Incentives](https://www.cbpp.org/research/the-supplemental-nutrition-assistance-program-includes-earnings-incentives)** (with Elizabeth Wolkomir, 2019)
 
 - **[House Farm Bill Would Increase Food Insecurity and Hardship](https://www.cbpp.org/research/food-assistance/house-farm-bill-would-increase-food-insecurity-and-hardship)** (with Ed Bolen et al., 2018)
