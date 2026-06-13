@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Policy Writing"
 permalink: /policy/
 author_profile: true
