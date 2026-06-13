@@ -74,3 +74,10 @@ html {
   }
 }
 
+.author__content {
+  text-align: center;
+
+  @include breakpoint($large) {
+    text-align: left;
+  }
+}
