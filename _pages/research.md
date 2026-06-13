@@ -8,7 +8,7 @@ classes: wide
 
 ## Working Papers
 
-[The Long-Term Effects of Universal Free School Meal Policies: Evidence from the Community Eligibility Provision](/assets/pdf/Cai_job_market_paper.pdf)  
+[The Long-Term Effects of Universal Free School Meal Policies: Evidence from the Community Eligibility Provision](/assets/pdf/cep_long_term.pdf)  
 
 ---
 
@@ -25,7 +25,6 @@ Disclaimer: This research was performed at a Federal Statistical Research Data C
 
 ---
 
-**When Free Lunch Is No Longer a Proxy for Student Poverty: Effects of the Community Eligibility Provision on State K-12 Funding**<br>
-
+[When Free Lunch Is No Longer a Proxy for Student Poverty: Effects of the Community Eligibility Provision on State K-12 Funding](/assets/pdf/cep_school_finance.pdf)<br>  
 
 States have historically used students' eligibility for the free and reduced-price meal program (FRP) to define student economic disadvantage. The count of economically disadvantaged students is used to allocate K-12 funding in many states. The Community Eligibility Provision (CEP), a universal free school meal program, can lower the count of economically disadvantaged students due to a reduction in applications. This can skew state K-12 funding if not actively monitored. I find that CEP reduced meal applications by 7.6 percentage points (a 27 percent decline) and lowered state funding by approximately $286 per pupil annually, or 2 percent. These effects are concentrated in states with high CEP exposure and in those that rely on alternative income measures to supplement FRP data. As universal free school meals continue to expand, this paper highlights the importance of monitoring FRP data and its downstream effects on school finance.
